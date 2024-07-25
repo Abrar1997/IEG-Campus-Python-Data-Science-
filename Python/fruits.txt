@@ -1,0 +1,3 @@
+Product|Quantity|Price
+Television|10|1455.55
+Computer|2|5678.75
